@@ -1,5 +1,7 @@
 # 🛡️ SecureSQL  
 **Универсальная СУБД с защитой от DDoS и SQL-инъекций для MySQL, PostgreSQL и SQLite3**  
+[![Security Focus](https://img.shields.io/badge/Security-Focus-blue)](https://github.com/Hacker20i4i/SecureSQL-discription)  
+[![No Known Vulnerabilities](https://img.shields.io/badge/No%20Known%20Vulnerabilities-✅-green)](https://github.com/Hacker20i4i/SecureSQL-discription)  
 
 ### 🔥 Особенности  
 ✅ **Защита от SQL-инъекций** — автоматическая блокировка запросов из черного списка.  
